@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\WinFormsApp1\Billetes\Billetes.csproj" />
+    <ProjectReference Include="..\Billetes\Billetes.csproj" />
   </ItemGroup>
 
 </Project>

@@ -17,8 +17,8 @@
   "libraries": {
     "Billetes/1.0.0": {
       "type": "project",
-      "path": "../../WinFormsApp1/Billetes/Billetes.csproj",
-      "msbuildProject": "../../WinFormsApp1/Billetes/Billetes.csproj"
+      "path": "../Billetes/Billetes.csproj",
+      "msbuildProject": "../Billetes/Billetes.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Javier\\source\\repos\\WinFormsApp1\\Billetes\\Billetes.csproj": {
-              "projectPath": "C:\\Users\\Javier\\source\\repos\\WinFormsApp1\\Billetes\\Billetes.csproj"
+            "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Billetes\\Billetes.csproj": {
+              "projectPath": "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Billetes\\Billetes.csproj"
             }
           }
         }
