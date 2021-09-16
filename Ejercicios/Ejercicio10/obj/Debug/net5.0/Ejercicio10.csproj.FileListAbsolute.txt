@@ -1,0 +1,15 @@
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\Ejercicio10.exe
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\Ejercicio10.deps.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\Ejercicio10.runtimeconfig.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\Ejercicio10.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\Ejercicio10.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\ref\Ejercicio10.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\bin\Debug\net5.0\Ejercicio10.pdb
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\ref\Ejercicio10.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.pdb
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio10\obj\Debug\net5.0\Ejercicio10.genruntimeconfig.cache

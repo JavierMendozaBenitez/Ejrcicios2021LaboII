@@ -1,0 +1,15 @@
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\Ejercicio2.exe
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\Ejercicio2.deps.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\Ejercicio2.runtimeconfig.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\Ejercicio2.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\Ejercicio2.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\ref\Ejercicio2.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\bin\Debug\net5.0\Ejercicio2.pdb
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\ref\Ejercicio2.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.pdb
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio2\obj\Debug\net5.0\Ejercicio2.genruntimeconfig.cache

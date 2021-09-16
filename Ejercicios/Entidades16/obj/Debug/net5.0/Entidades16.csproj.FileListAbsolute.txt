@@ -1,0 +1,11 @@
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\bin\Debug\net5.0\Entidades16.deps.json
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\bin\Debug\net5.0\Entidades16.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\bin\Debug\net5.0\ref\Entidades16.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\bin\Debug\net5.0\Entidades16.pdb
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\Entidades16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\Entidades16.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\Entidades16.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\Entidades16.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\Entidades16.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\ref\Entidades16.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades16\obj\Debug\net5.0\Entidades16.pdb

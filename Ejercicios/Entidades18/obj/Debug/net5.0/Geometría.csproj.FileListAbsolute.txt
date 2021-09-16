@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\bin\Debug\net5.0\Geometría.deps.json
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\bin\Debug\net5.0\Geometría.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\bin\Debug\net5.0\ref\Geometría.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\bin\Debug\net5.0\Geometría.pdb
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\ref\Geometría.dll
+C:\Users\Javier\source\repos\Ejercicios\Entidades18\obj\Debug\net5.0\Geometría.pdb

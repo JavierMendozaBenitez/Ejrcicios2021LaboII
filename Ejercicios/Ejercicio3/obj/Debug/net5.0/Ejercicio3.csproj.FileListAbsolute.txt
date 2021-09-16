@@ -1,0 +1,15 @@
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.exe
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.deps.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\ref\Ejercicio3.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.pdb
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio3.dll
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.pdb
+C:\Users\Javier\source\repos\Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.genruntimeconfig.cache

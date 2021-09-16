@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicios19ParaArriba/1.0.0": {
+        "dependencies": {
+          "Entidades19": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicios19ParaArriba.dll": {}
+        }
+      },
+      "Entidades19/1.0.0": {
+        "runtime": {
+          "Entidades19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios19ParaArriba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

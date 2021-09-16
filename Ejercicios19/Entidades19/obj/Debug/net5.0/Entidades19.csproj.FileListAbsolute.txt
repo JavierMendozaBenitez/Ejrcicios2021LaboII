@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\bin\Debug\net5.0\Entidades19.deps.json
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\bin\Debug\net5.0\Entidades19.dll
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\bin\Debug\net5.0\ref\Entidades19.dll
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\bin\Debug\net5.0\Entidades19.pdb
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.dll
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\ref\Entidades19.dll
+C:\Users\Javier\source\repos\Ejercicios19ParaArriba\Entidades19\obj\Debug\net5.0\Entidades19.pdb
