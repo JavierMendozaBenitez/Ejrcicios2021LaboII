@@ -1,0 +1,45 @@
+/*Dictionary<string, int> diccionario = new Dictionary<string, int>();
+            diccionario.Add("Parrafo1",) 
+
+
+            char[] frase = richTextBox1.Text.ToCharArray();
+            int num = 0;
+            int i = 0;
+
+            //Salar los espacios en blanco del principio.
+            while (frase[i] == ' ')
+            {
+                i++;
+            }
+
+            //Si encontramos como primer caracter un punto, tenemos una palabra menos.
+            if(frase[i] == '.')
+            {
+                num--;
+            }
+
+            //Recorremos las letras de la frase
+            while (frase[i] != '.')
+            {
+                if (frase[i] == ' ')
+                {
+                    //Hemos encongtrado una palabra nueva.
+                    num++;
+                    //Nos saltamos los espacios que hay seguidos.
+                    while(frase[i] == ' ')
+                    {
+                        i++;//no sale de aca hasta terminar con los espacios
+                    }
+                    //Si la siguiente palabra es un punto, no era una palabra
+                    if(frase[i] == '.')
+                    {
+                        num--;
+                    }
+                }
+                else
+                {
+                    i++;
+                }
+            }
+            num++;
+            MessageBox.Show("Cantidad de palabras", num.ToString());*/
