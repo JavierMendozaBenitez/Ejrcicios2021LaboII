@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Entidades32\Entidades32\bin\Debug\net5.0\Entidades32.deps.json
+C:\Users\Javier\source\repos\Entidades32\Entidades32\bin\Debug\net5.0\Entidades32.dll
+C:\Users\Javier\source\repos\Entidades32\Entidades32\bin\Debug\net5.0\ref\Entidades32.dll
+C:\Users\Javier\source\repos\Entidades32\Entidades32\bin\Debug\net5.0\Entidades32.pdb
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.dll
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\ref\Entidades32.dll
+C:\Users\Javier\source\repos\Entidades32\Entidades32\obj\Debug\net5.0\Entidades32.pdb
