@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio38/1.0.0": {
+        "dependencies": {
+          "Entidades38": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio38.dll": {}
+        }
+      },
+      "Entidades38/1.0.0": {
+        "runtime": {
+          "Entidades38.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio38/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades38/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

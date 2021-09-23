@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Entidades38</id>
+    <version>1.0.0</version>
+    <authors>Entidades38</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Javier\source\repos\Ejercicio38\Entidades38\bin\Debug\net5.0\Entidades38.dll" target="lib\net5.0\Entidades38.dll" />
+  </files>
+</package>

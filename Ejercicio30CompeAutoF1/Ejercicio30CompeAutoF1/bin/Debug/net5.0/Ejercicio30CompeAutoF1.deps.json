@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio30CompeAutoF1/1.0.0": {
+        "dependencies": {
+          "Entidades30CompeAutoF1": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio30CompeAutoF1.dll": {}
+        }
+      },
+      "Entidades30CompeAutoF1/1.0.0": {
+        "runtime": {
+          "Entidades30CompeAutoF1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio30CompeAutoF1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades30CompeAutoF1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
