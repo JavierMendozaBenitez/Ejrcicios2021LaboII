@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\bin\Debug\net5.0\Entidades31PuestoAtencion.deps.json
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\bin\Debug\net5.0\Entidades31PuestoAtencion.dll
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\bin\Debug\net5.0\ref\Entidades31PuestoAtencion.dll
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\bin\Debug\net5.0\Entidades31PuestoAtencion.pdb
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.dll
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\ref\Entidades31PuestoAtencion.dll
+C:\Users\Javier\source\repos\Ejercicio31AtencionCliente\Entidades31PuestoAtencion\obj\Debug\net5.0\Entidades31PuestoAtencion.pdb

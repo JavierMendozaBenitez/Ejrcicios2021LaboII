@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio31AtencionCliente/1.0.0": {
+        "dependencies": {
+          "Entidades31PuestoAtencion": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio31AtencionCliente.dll": {}
+        }
+      },
+      "Entidades31PuestoAtencion/1.0.0": {
+        "runtime": {
+          "Entidades31PuestoAtencion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio31AtencionCliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades31PuestoAtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
