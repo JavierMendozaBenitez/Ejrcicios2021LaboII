@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\bin\Debug\net5.0\Entidades34Vehiculos.deps.json
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\bin\Debug\net5.0\Entidades34Vehiculos.dll
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\bin\Debug\net5.0\ref\Entidades34Vehiculos.dll
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\bin\Debug\net5.0\Entidades34Vehiculos.pdb
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.dll
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\ref\Entidades34Vehiculos.dll
+C:\Users\Javier\source\repos\Ejercicio34Vehiculos\Entidades34Vehiculos\obj\Debug\net5.0\Entidades34Vehiculos.pdb

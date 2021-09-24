@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio34Vehiculos/1.0.0": {
+        "dependencies": {
+          "Entidades34Vehiculos": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio34Vehiculos.dll": {}
+        }
+      },
+      "Entidades34Vehiculos/1.0.0": {
+        "runtime": {
+          "Entidades34Vehiculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio34Vehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades34Vehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
