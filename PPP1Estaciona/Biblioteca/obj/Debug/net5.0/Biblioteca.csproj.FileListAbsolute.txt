@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Javier\source\repos\Biblioteca\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
