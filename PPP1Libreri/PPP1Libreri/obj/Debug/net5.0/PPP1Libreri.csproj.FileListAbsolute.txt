@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\bin\Debug\net5.0\PPP1Libreri.deps.json
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\bin\Debug\net5.0\PPP1Libreri.dll
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\bin\Debug\net5.0\ref\PPP1Libreri.dll
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\bin\Debug\net5.0\PPP1Libreri.pdb
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.AssemblyInfo.cs
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.dll
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\ref\PPP1Libreri.dll
+C:\Users\Javier\source\repos\PPP1Libreri\PPP1Libreri\obj\Debug\net5.0\PPP1Libreri.pdb
