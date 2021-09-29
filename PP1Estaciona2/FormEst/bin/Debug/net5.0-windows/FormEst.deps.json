@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormEst/1.0.0": {
+        "dependencies": {
+          "PP1Estaciona2": "1.0.0"
+        },
+        "runtime": {
+          "FormEst.dll": {}
+        }
+      },
+      "PP1Estaciona2/1.0.0": {
+        "runtime": {
+          "PP1Estaciona2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormEst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PP1Estaciona2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

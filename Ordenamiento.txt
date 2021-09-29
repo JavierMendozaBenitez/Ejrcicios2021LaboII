@@ -16,3 +16,17 @@
 
             return 0;
         }
+
+
+		if(strcmp(gente[i].nombre, gente[j].nombre) > 0 && criterio == 1)
+                {
+                    auxPersona = gente[i];
+                    gente[i] = gente[j];
+                    gente[j] = auxPersona;
+                }
+                else if(strcmp(gente[i].nombre, gente[j].nombre) < 0 && criterio == 0)
+                {
+                    auxPersona = gente[i];
+                    gente[i] = gente[j];
+                    gente[j] = auxPersona;
+                }
