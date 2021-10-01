@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mendoza.Javier.2C", "Mendoza.Javier.2C\Mendoza.Javier.2C.csproj", "{192710C2-9C67-4109-B51C-DAA632152F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMendoza.Javier.2C.", "FormMendoza.Javier.2C\FormMendoza.Javier.2C..csproj", "{4AA3A565-7990-41C0-9AA1-7C93CC445BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192710C2-9C67-4109-B51C-DAA632152F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192710C2-9C67-4109-B51C-DAA632152F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192710C2-9C67-4109-B51C-DAA632152F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192710C2-9C67-4109-B51C-DAA632152F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA3A565-7990-41C0-9AA1-7C93CC445BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA3A565-7990-41C0-9AA1-7C93CC445BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA3A565-7990-41C0-9AA1-7C93CC445BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA3A565-7990-41C0-9AA1-7C93CC445BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF19B3EB-CAF8-4CE1-8627-1B8C33AC85DF}
+	EndGlobalSection
+EndGlobal
