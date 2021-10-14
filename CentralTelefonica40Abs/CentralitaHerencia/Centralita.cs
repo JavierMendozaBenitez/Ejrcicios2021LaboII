@@ -125,6 +125,7 @@ namespace CentralitaHerencia
                 if(llamadaFor == llamada)
                 {
                     retorno = true;
+                    break;
                 }
             }
             return retorno;
@@ -135,16 +136,13 @@ namespace CentralitaHerencia
             return !(c == llamada);
         }
 
-        public static bool operator + (Centralita c, Llamada llamada)
+        public static Centralita operator + (Centralita c, Llamada llamada)
         {
-            bool retorno = false;
-
             if(c != llamada)
             {
                 c.AgregarLlamada(llamada);
-                retorno = true;
             }
-            return retorno;
+            return c;
         }
     }
 }

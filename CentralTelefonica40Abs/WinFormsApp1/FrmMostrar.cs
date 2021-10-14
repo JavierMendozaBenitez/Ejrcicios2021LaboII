@@ -14,10 +14,49 @@ namespace WinFormsApp1
     public partial class FrmMostrar : Form
     {
         private Centralita centralita;
-        public FrmMostrar()
+        private Llamada.TipoLlamada tipoLlamada;
+
+        public FrmMostrar(Llamada.TipoLlamada tipoLlamada)
         {
             InitializeComponent();
+            this.tipoLlamada = tipoLlamada;
         }
 
+        public Centralita Centralita
+        {
+            set { this.centralita = value; }
+        }
+
+        private void FrmMostrar_Load(object sender, EventArgs e)
+        {
+            foreach (Llamada item in this.centralita.Llamadas)
+            {
+                if (item is Local && this.tipoLlamada == Llamada.TipoLlamada.Local)
+                {
+                    rchTextDatos.Text += item.ToString();
+                }
+                else if (item is Provincial && this.tipoLlamada == Llamada.TipoLlamada.Provincial)
+                {
+                    rchTextDatos.Text += item.ToString();
+                }
+                else if (this.tipoLlamada == Llamada.TipoLlamada.Todas)
+                {
+                    rchTextDatos.Text += item.ToString();
+                }
+            }
+
+            if (this.tipoLlamada == Llamada.TipoLlamada.Todas)
+            {
+                rchTextDatos.Text += $"Ganancia por todas las llamadas {this.centralita.GananciaPorTotal}";
+            }
+            else if (this.tipoLlamada == Llamada.TipoLlamada.Local)
+            {
+                rchTextDatos.Text += $"Ganancia por llamadas Locales {this.centralita.GananciaPorLocal}";
+            }
+            else
+            {
+                rchTextDatos.Text += $"Ganancia por llamadas Provinciales {this.centralita.GananciaPorProvincial}";
+            }
+        }
     }
 }

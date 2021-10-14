@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\source\\repos\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj": {}
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\source\\repos\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj": {
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj",
         "projectName": "CentralitaHerencia",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj",
+        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica40Abs\\CentralitaHerencia\\CentralitaHerencia.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\CentralTelefonica40Abs\\CentralitaHerencia\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica40Abs\\CentralitaHerencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
