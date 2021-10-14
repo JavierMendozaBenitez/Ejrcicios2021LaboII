@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+      "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
       "projectName": "CentralitaHerencia",
-      "projectPath": "C:\\Users\\Javier\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+      "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\obj\\",
+      "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Segundo Cuatrimestre\\Laboratorio ll\\Ejrcicios2021LaboII\\CentralTelefonica\\CentralitaHerencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
