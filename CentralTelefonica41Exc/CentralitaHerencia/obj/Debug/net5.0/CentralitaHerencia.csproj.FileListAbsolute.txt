@@ -1,0 +1,48 @@
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\source\repos\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica40Abs\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\CentralTelefonica41Exc\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.pdb
