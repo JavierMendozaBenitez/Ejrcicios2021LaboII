@@ -121,7 +121,12 @@ namespace Entidades30CompeAutoF1
                         }
                     }
                 }
-            }                        
+            }
+            else
+            {
+                throw new CompetenciaNoDisponibleException("El vehículo no corresponde a la competencia", "clase Competencia", "metodo ==");
+            }
+
             return retorno;
         }
 
@@ -135,15 +140,23 @@ namespace Entidades30CompeAutoF1
             bool retorno = false;
             Random random = new Random();
 
-            if (c.competidores.Count < c.cantidadCompetidores && c != a)
+            try
             {
-                c.competidores.Add(a);
-                a.EnCompetencia = true;
-                a.VueltasRestantes = c.cantidadVueltas;
-                a.CantidadCombustible = (short)random.Next(15, 100);
+                if (c.competidores.Count < c.cantidadCompetidores && c != a)
+                {
+                    c.competidores.Add(a);
+                    a.EnCompetencia = true;
+                    a.VueltasRestantes = c.cantidadVueltas;
+                    a.CantidadCombustible = (short)random.Next(15, 100);
 
-                retorno = true;
+                    retorno = true;
+                }
             }
+            catch(CompetenciaNoDisponibleException ex)
+            {
+                throw new CompetenciaNoDisponibleException("Competencia incorrecta", "clase Competencia", "metodo + ", ex);
+            }
+            
             return retorno;
         }
 

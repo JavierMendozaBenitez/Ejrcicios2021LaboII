@@ -21,7 +21,30 @@ namespace Ejercicio30CompeAutoF1
 
 
 
-
+            try
+            {
+                //Agregar a la lista
+                Console.WriteLine("Se agrega a la lista auto no existente: {0}\n\n", compeF1 + moto1);
+            }
+            catch(CompetenciaNoDisponibleException ex)
+            {
+                Exception exception = ex;
+                do
+                {
+                    Console.WriteLine($"Error: {ex.Message}, producido en {ex.NombreClase}, al momento de {ex.NombreMetodo}\n\n");
+                    Console.WriteLine(exception.Message, exception.InnerException);
+                    exception = exception.InnerException;
+                }
+                while (!(exception is null));
+                /*Exception exception = ex;
+                do
+                {
+                    Console.WriteLine($"Error: {exception.Message}, producido en {exception.NombreClase}, al momento de {exception.NombreMetodo}");
+                    exception = exception.InnerException;
+                }
+                while (!(exception is null));*/
+                //Console.WriteLine($"Error: {ex.Message}, producido en {ex.NombreClase}, al momento de {ex.NombreMetodo}");
+            }
 
             //Preguntar si esta en la lista
             Console.WriteLine("Está en la lista auto1: {0}", compeF1 == auto1);
@@ -63,13 +86,26 @@ namespace Ejercicio30CompeAutoF1
             //Preguntar si esta en la lista
             Console.WriteLine("Está en la lista auto1 con !=: {0}", compeF1 != auto1);
 
-            //muestro esto para demostrar que no se cargo
-            Console.WriteLine("Está en la lista moto1: {0}", compeF1 == moto1);
-            //Agregar a la lista
-            Console.WriteLine("Se agrega a la lista moto1: {0}", compeF1 + moto1);
-            //Preguntar si esta en la lista
-            Console.WriteLine("Está en la lista moto1: {0}", compeF1 == moto1);
-            Console.WriteLine("MUESTRO COMPE \n{0}", compeF1.Mostrar());
+            
+            ////muestro esto para demostrar que no se cargo
+            //Console.WriteLine("Está en la lista moto1: {0}", compeF1 == moto1);
+            ////Agregar a la lista
+            //Console.WriteLine("Se agrega a la lista moto1: {0}", compeF1 + moto1);
+            ////Preguntar si esta en la lista
+            //Console.WriteLine("Está en la lista moto1: {0}", compeF1 == moto1);
+            //Console.WriteLine("MUESTRO COMPE \n{0}", compeF1.Mostrar());
+
+
+
+
+
+
+
+
+
+
+
+
 
             /*//Preguntar si esta en la lista
             Console.WriteLine("Está en la lista moto1: {0}", compeMoto == moto1);

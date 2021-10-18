@@ -22,3 +22,15 @@ C:\Users\Javier\source\repos\Ejercicio36CompeAutoF1RefactorizadoDel30\Entidades3
 C:\Users\Javier\source\repos\Ejercicio36CompeAutoF1RefactorizadoDel30\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.dll
 C:\Users\Javier\source\repos\Ejercicio36CompeAutoF1RefactorizadoDel30\Entidades30CompeAutoF1\obj\Debug\net5.0\ref\Entidades30CompeAutoF1.dll
 C:\Users\Javier\source\repos\Ejercicio36CompeAutoF1RefactorizadoDel30\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\bin\Debug\net5.0\Entidades30CompeAutoF1.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\bin\Debug\net5.0\Entidades30CompeAutoF1.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\bin\Debug\net5.0\ref\Entidades30CompeAutoF1.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\bin\Debug\net5.0\Entidades30CompeAutoF1.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\ref\Entidades30CompeAutoF1.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio43CompeAutoF1\Entidades30CompeAutoF1\obj\Debug\net5.0\Entidades30CompeAutoF1.pdb
