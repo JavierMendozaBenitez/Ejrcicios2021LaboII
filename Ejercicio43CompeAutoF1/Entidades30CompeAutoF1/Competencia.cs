@@ -154,7 +154,7 @@ namespace Entidades30CompeAutoF1
             }
             catch(CompetenciaNoDisponibleException ex)
             {
-                throw new CompetenciaNoDisponibleException("Competencia incorrecta", "clase Competencia", "metodo + ", ex);
+                throw new CompetenciaNoDisponibleException("Competencia incorrecta, ", "clase Competencia, ", " metodo +, ", ex);
             }
             
             return retorno;

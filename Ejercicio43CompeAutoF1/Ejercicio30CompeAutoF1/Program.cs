@@ -28,23 +28,22 @@ namespace Ejercicio30CompeAutoF1
             }
             catch(CompetenciaNoDisponibleException ex)
             {
-                Exception exception = ex;
+                /*Exception exception = ex;
                 do
                 {
                     Console.WriteLine($"Error: {ex.Message}, producido en {ex.NombreClase}, al momento de {ex.NombreMetodo}\n\n");
                     Console.WriteLine(exception.Message, exception.InnerException);
                     exception = exception.InnerException;
                 }
-                while (!(exception is null));
-                /*Exception exception = ex;
-                do
-                {
-                    Console.WriteLine($"Error: {exception.Message}, producido en {exception.NombreClase}, al momento de {exception.NombreMetodo}");
-                    exception = exception.InnerException;
-                }
                 while (!(exception is null));*/
-                //Console.WriteLine($"Error: {ex.Message}, producido en {ex.NombreClase}, al momento de {ex.NombreMetodo}");
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine("\n\n------------------------------------------------\n\n");
+                //throw new CompetenciaNoDisponibleException(ex.Message, ex.NombreClase, ex.NombreMetodo, ex);
+                
             }
+
+
+
 
             //Preguntar si esta en la lista
             Console.WriteLine("Está en la lista auto1: {0}", compeF1 == auto1);
