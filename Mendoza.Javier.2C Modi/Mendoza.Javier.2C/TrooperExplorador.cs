@@ -8,7 +8,7 @@ namespace Mendoza.Javier._2C
 {
     public class TrooperExplorador : Trooper
     {
-        public string vehiculo;
+        private string vehiculo;
 
         /// <summary>
         /// Constructor
@@ -31,7 +31,8 @@ namespace Mendoza.Javier._2C
             }
             set
             {
-                if(value == " ")
+                //if(value == "")
+                if(string.IsNullOrEmpty(value))
                 {
                     this.vehiculo = "Indefinido";
                 }
@@ -62,7 +63,7 @@ namespace Mendoza.Javier._2C
             StringBuilder sb = new StringBuilder();
             
             sb.AppendLine(base.InfoTrooper());
-            sb.AppendLine("- Vehiculo: " + this.Vehiculo);
+            sb.AppendLine($"- Vehiculo: {this.Vehiculo} ");
             return sb.ToString();  
         }
     }

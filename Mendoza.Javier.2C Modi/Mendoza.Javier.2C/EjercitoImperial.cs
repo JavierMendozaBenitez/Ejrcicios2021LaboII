@@ -48,25 +48,9 @@ namespace Mendoza.Javier._2C
         /// <returns></returns>
         public static EjercitoImperial operator + (EjercitoImperial ejercito, Trooper soldado)
         {
-            bool puedeAgregar = true;
-
             if (ejercito.Troopers.Count < ejercito.capacidad)
             {
-                foreach (Trooper troAux in ejercito.Troopers)
-                {
-                    puedeAgregar = true;
-
-                    if (troAux == soldado)
-                    {
-                        puedeAgregar = false;
-                        break;
-                    }
-                }
-
-                if (puedeAgregar)
-                {
-                    ejercito.troopers.Add(soldado);
-                }
+                ejercito.troopers.Add(soldado);
             }
             return ejercito;
         }
@@ -82,7 +66,9 @@ namespace Mendoza.Javier._2C
 
             foreach (Trooper troAux in ejercito.Troopers)
             {
-                if (troAux.Tipo == soldado.Tipo)
+                //if (troAux.Tipo == soldado.Tipo)
+
+                if(troAux.Equals(soldado))
                 {
                     ejercito.troopers.Remove(soldado);
                     break;                   

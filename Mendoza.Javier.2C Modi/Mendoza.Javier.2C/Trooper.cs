@@ -13,8 +13,9 @@ namespace Mendoza.Javier._2C
         /// </summary>
         /// <param name="armamento"></param>
         public Trooper(Blaster armamento)
+            :this (armamento, false)
         {
-            this.armamento = armamento;
+            
         }
 
         /// <summary>
@@ -23,9 +24,9 @@ namespace Mendoza.Javier._2C
         /// <param name="armamento"></param>
         /// <param name="esClon"></param>
         public Trooper(Blaster armamento, bool esClon)
-            : this (armamento)
         {
-            this.EsClon = false;
+            this.EsClon = esClon;
+            this.armamento = armamento;
         }
 
         /// <summary>

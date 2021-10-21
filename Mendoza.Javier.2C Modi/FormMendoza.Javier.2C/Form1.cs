@@ -13,17 +13,17 @@ namespace FormMendoza.Javier._2C_
 {
     public partial class Form1 : Form
     {
-        EjercitoImperial ejercitoImperial;
-        TrooperAsalto trooperAsalto;
+        private EjercitoImperial ejercitoImperial;
 
         /// <summary>
         /// Constructor
         /// </summary>
         public Form1()
         {
-            this.ejercitoImperial = new EjercitoImperial(4);
-            this.trooperAsalto = new TrooperAsalto(Blaster.EC17);
             InitializeComponent();
+            this.ejercitoImperial = new EjercitoImperial(4);
+            this.ejercitoImperial += new TrooperAsalto(Blaster.EC17);
+            RefrescarEjercito();
         }
 
         /// <summary>
@@ -33,6 +33,8 @@ namespace FormMendoza.Javier._2C_
         /// <param name="e"></param>
         private void Form1_Load(object sender, EventArgs e)
         {
+            //this.cmbTipo.DataSource = new List<string>() { "Arena", "Asalto", "Explorador" };
+
             cmbTipo.Items.Add("Arena");
             cmbTipo.Items.Add("Asalto");
             cmbTipo.Items.Add("Explorador");
@@ -48,20 +50,10 @@ namespace FormMendoza.Javier._2C_
         private void RefrescarEjercito()
         {
             lstEjercito.Items.Clear();
-            foreach (Trooper troAux in ejercitoImperial.Troopers)
+
+            foreach (Trooper item in this.ejercitoImperial.Troopers)
             {
-                if (troAux is TrooperAsalto)
-                {
-                    lstEjercito.Items.Add(troAux.InfoTrooper());
-                }
-                else if (troAux is TrooperArena)
-                {
-                    lstEjercito.Items.Add(troAux.InfoTrooper());
-                }
-                else
-                {
-                    lstEjercito.Items.Add(troAux.InfoTrooper());
-                }
+                this.lstEjercito.Items.Add(item.InfoTrooper());
             }
         }
 
@@ -72,7 +64,53 @@ namespace FormMendoza.Javier._2C_
         /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            if (cmbTipo.SelectedIndex != -1 && cmbBlaster.SelectedIndex != -1)
+            Trooper trooper;
+
+            switch (cmbTipo.SelectedItem.ToString())
+            {
+                case "Arena":
+                    {
+                        trooper = new TrooperArena((Blaster)this.cmbBlaster.SelectedItem);
+
+                        if (ckbClon.Checked)
+                        {
+                            trooper.EsClon = true;
+                        }
+                        ejercitoImperial = ejercitoImperial + trooper;
+                        this.RefrescarEjercito();
+
+                        break;
+                    }
+                case "Asalto":
+                    {
+                        trooper = new TrooperAsalto((Blaster)this.cmbBlaster.SelectedItem);
+
+                        if (ckbClon.Checked)
+                        {
+                            trooper.EsClon = true;
+                        }
+                        ejercitoImperial = ejercitoImperial + trooper;
+                        this.RefrescarEjercito();
+
+                        break;
+                    }
+                default:
+                    {
+                        trooper = new TrooperExplorador("Moto");
+
+                        if (ckbClon.Checked)
+                        {
+                            trooper.EsClon = true;
+                        }
+                        ejercitoImperial = ejercitoImperial + trooper;
+                        this.RefrescarEjercito();
+
+                        break;
+                    }
+            }
+
+
+            /*if (cmbTipo.SelectedIndex != -1 && cmbBlaster.SelectedIndex != -1)
             {
                 if (cmbTipo.Text == "Arena")
                 {
@@ -104,7 +142,7 @@ namespace FormMendoza.Javier._2C_
                     ejercitoImperial = ejercitoImperial + trooperExplorador;
                     this.RefrescarEjercito();
                 }
-            }            
+            }  */          
         }
 
         /// <summary>
@@ -114,7 +152,56 @@ namespace FormMendoza.Javier._2C_
         /// <param name="e"></param>
         private void btnQuitar_Click(object sender, EventArgs e)
         {
-            if (cmbTipo.SelectedIndex != -1)
+            Trooper trooper;
+
+            if (!Object.ReferenceEquals(this.cmbTipo.SelectedItem, null))
+            {
+                switch (cmbTipo.SelectedItem.ToString())
+                {
+                    case "Arena":
+                        {
+                            trooper = new TrooperArena((Blaster)this.cmbBlaster.SelectedItem);
+
+                            if (ckbClon.Checked)
+                            {
+                                trooper.EsClon = true;
+                            }
+                            ejercitoImperial = ejercitoImperial - trooper;
+                            this.RefrescarEjercito();
+
+                            break;
+                        }
+                    case "Asalto":
+                        {
+                            trooper = new TrooperAsalto((Blaster)this.cmbBlaster.SelectedItem);
+
+                            if (ckbClon.Checked)
+                            {
+                                trooper.EsClon = true;
+                            }
+                            ejercitoImperial = ejercitoImperial - trooper;
+                            this.RefrescarEjercito();
+
+                            break;
+                        }
+                    default:
+                        {
+                            trooper = new TrooperExplorador("Moto");
+
+                            if (ckbClon.Checked)
+                            {
+                                trooper.EsClon = true;
+                            }
+                            ejercitoImperial = ejercitoImperial - trooper;
+                            this.RefrescarEjercito();
+
+                            break;
+                        }
+                }
+
+            }
+
+            /*if (cmbTipo.SelectedIndex != -1)
             {
                 if (cmbTipo.Text == "Arena")
                 {
@@ -134,7 +221,7 @@ namespace FormMendoza.Javier._2C_
                     ejercitoImperial = ejercitoImperial - trooperExplorador;
                     this.RefrescarEjercito();
                 }
-            }
+            }*/
         }
 
     }    

@@ -93,3 +93,33 @@
                     this.RefrescarEjercito();
                 }
             }*/
+
+
+
+
+
+
+
+
+
+/*bool puedeAgregar = true;
+
+            if (ejercito.Troopers.Count < ejercito.capacidad)
+            {
+                foreach (Trooper troAux in ejercito.Troopers)
+                {
+                    puedeAgregar = true;
+
+                    if (troAux == soldado)
+                    {
+                        puedeAgregar = false;
+                        break;
+                    }
+                }
+
+                if (puedeAgregar)
+                {
+                    ejercito.troopers.Add(soldado);
+                }
+            }
+            return ejercito;*/
