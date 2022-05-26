@@ -1,0 +1,5 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Clase 18 Recuperatorio\Mendoza.Javier.2C\Form\obj\Debug\net5.0-windows\Form.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Clase 18 Recuperatorio\Mendoza.Javier.2C\Form\obj\Debug\net5.0-windows\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Clase 18 Recuperatorio\Mendoza.Javier.2C\Form\obj\Debug\net5.0-windows\Form.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Clase 18 Recuperatorio\Mendoza.Javier.2C\Form\obj\Debug\net5.0-windows\Form.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Segundo Cuatrimestre\Laboratorio ll\Clase 18 Recuperatorio\Mendoza.Javier.2C\Form\obj\Debug\net5.0-windows\Form.csproj.CoreCompileInputs.cache

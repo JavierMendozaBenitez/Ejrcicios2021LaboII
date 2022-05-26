@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Ejercicio23\\Ejercicio23.csproj",
+      "projectUniqueName": "C:\\Users\\Javier\\Documents\\TUP\\Segundo Cuatrimestre 08-2021\\Laboratorio ll\\Ejrcicios2021LaboII\\Ejercicio23\\Ejercicio23\\Ejercicio23.csproj",
       "projectName": "Ejercicio23",
-      "projectPath": "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Ejercicio23\\Ejercicio23.csproj",
+      "projectPath": "C:\\Users\\Javier\\Documents\\TUP\\Segundo Cuatrimestre 08-2021\\Laboratorio ll\\Ejrcicios2021LaboII\\Ejercicio23\\Ejercicio23\\Ejercicio23.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Ejercicio23\\obj\\",
+      "outputPath": "C:\\Users\\Javier\\Documents\\TUP\\Segundo Cuatrimestre 08-2021\\Laboratorio ll\\Ejrcicios2021LaboII\\Ejercicio23\\Ejercicio23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Billetes\\Billetes.csproj": {
-              "projectPath": "C:\\Users\\Javier\\source\\repos\\Ejercicio23\\Billetes\\Billetes.csproj"
+            "C:\\Users\\Javier\\Documents\\TUP\\Segundo Cuatrimestre 08-2021\\Laboratorio ll\\Ejrcicios2021LaboII\\Ejercicio23\\Billetes\\Billetes.csproj": {
+              "projectPath": "C:\\Users\\Javier\\Documents\\TUP\\Segundo Cuatrimestre 08-2021\\Laboratorio ll\\Ejrcicios2021LaboII\\Ejercicio23\\Billetes\\Billetes.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

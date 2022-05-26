@@ -19,3 +19,24 @@ C:\Users\Javier\source\repos\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ej
 C:\Users\Javier\source\repos\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\ref\Ejercicio23.dll
 C:\Users\Javier\source\repos\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.pdb
 C:\Users\Javier\source\repos\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Ejercicio23.exe
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Ejercicio23.deps.json
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Ejercicio23.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Ejercicio23.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Ejercicio23.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Ejercicio23.pdb
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Billetes.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\bin\Debug\net5.0-windows\Billetes.pdb
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.Form1.resources
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\refint\Ejercicio23.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.pdb
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\Ejercicio23.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Ejercicio23\obj\Debug\net5.0-windows\ref\Ejercicio23.dll

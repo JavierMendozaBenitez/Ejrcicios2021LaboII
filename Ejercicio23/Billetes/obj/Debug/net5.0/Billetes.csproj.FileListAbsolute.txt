@@ -33,3 +33,15 @@ C:\Users\Javier\source\repos\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.cspr
 C:\Users\Javier\source\repos\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.dll
 C:\Users\Javier\source\repos\Ejercicio23\Billetes\obj\Debug\net5.0\ref\Billetes.dll
 C:\Users\Javier\source\repos\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.pdb
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\bin\Debug\net5.0\Billetes.deps.json
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\bin\Debug\net5.0\Billetes.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\bin\Debug\net5.0\Billetes.pdb
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\refint\Billetes.dll
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\Billetes.pdb
+C:\Users\Javier\Documents\TUP\Segundo Cuatrimestre 08-2021\Laboratorio ll\Ejrcicios2021LaboII\Ejercicio23\Billetes\obj\Debug\net5.0\ref\Billetes.dll

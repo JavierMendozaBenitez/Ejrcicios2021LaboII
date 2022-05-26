@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormJavierMendoza/1.0.0": {
+        "dependencies": {
+          "Mendoza.Javier.2C": "1.0.0"
+        },
+        "runtime": {
+          "FormJavierMendoza.dll": {}
+        }
+      },
+      "Mendoza.Javier.2C/1.0.0": {
+        "runtime": {
+          "Mendoza.Javier.2C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormJavierMendoza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mendoza.Javier.2C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
